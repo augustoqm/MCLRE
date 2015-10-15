@@ -1,0 +1,6 @@
+"name","value"
+"mrbpr_relation_names","user-event-rsvp,user-group-participate,group-event-created"
+"bpr-net_relation_names","user-event-rsvp,user-user-same-group,user-user-same-event"
+"partitions","1,2,3,4,5,6,7,8,9,10,11,12"
+"lattice_combination_degree","3"
+"target_min_weight","0.1"

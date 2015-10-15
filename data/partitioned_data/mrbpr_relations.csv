@@ -1,0 +1,8 @@
+"id","name","entity1","entity2","is_target"
+0,"rsvp",user,event,TRUE
+1,"same-event",user,user,FALSE
+2,"same-user",event,event,FALSE
+3,"rsvp",event,user,FALSE
+4,"participate",user,group,FALSE
+5,"created",group,event,FALSE
+6,"same-group",user,user,FALSE

@@ -1,0 +1,21 @@
+# Python (2.7) Requirements
+# How install them?
+# sudo pip install -r <BASE_PATH>/requirements.txt
+
+
+# Natural Language Processing
+nltk>=3.0.0
+# Download the stopwords NLTK database
+sudo python -m nltk.downloader -d /usr/share/nltk_data stopwords
+
+
+# Content-based Algorithms (Gensim: https://radimrehurek.com/gensim/)
+gensim>=0.10.3
+
+
+# Map-Reduce library (MRJob: https://pythonhosted.org/mrjob/)
+mrjob>=0.4.2
+
+
+# Extra libraries for Data Munging
+unicodecsv >= 0.94
