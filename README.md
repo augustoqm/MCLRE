@@ -22,7 +22,7 @@ Follow the steps in the file: [src/run_experiment.sh](https://github.com/augusto
 
 ## Dataset
 
-For dataset access you should ask [Leandro](leandro@computacao.ufcg.edu.br), he will send it promptly.
+For dataset access you should ask *Leandro Balby Marinho* (lbalby_at_gmail_dot_com), he will send it promptly.
 
 Thank you for the interest and have a good job!
 
